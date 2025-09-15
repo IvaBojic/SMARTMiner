@@ -1,0 +1,28 @@
+Split sizes
+valid: 25
+test : 25
+train: 123
+
+Goal distribution for train:
+Notes with 0 goal(s): 34
+Notes with 1 goal(s): 35
+Notes with 2 goal(s): 25
+Notes with 3 goal(s): 26
+Notes with 4 goal(s): 2
+Notes with 5 goal(s): 1
+
+Goal distribution for valid:
+Notes with 0 goal(s): 8
+Notes with 1 goal(s): 4
+Notes with 2 goal(s): 4
+Notes with 3 goal(s): 4
+Notes with 4 goal(s): 4
+Notes with 5 goal(s): 1
+
+Goal distribution for test:
+Notes with 0 goal(s): 4
+Notes with 1 goal(s): 7
+Notes with 2 goal(s): 8
+Notes with 3 goal(s): 2
+Notes with 4 goal(s): 4
+

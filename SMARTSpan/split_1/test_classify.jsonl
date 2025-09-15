@@ -1,0 +1,41 @@
+{"id": "8", "goal": "follow myhealthy plate three times a week", "label": [1, 1, 0], "SMARTlabel": "Partially SMART"}
+{"id": "12", "goal": "take statin medications daily at 10am on weekdays and with meals on weekends (confidence level: 9/10)", "label": [1, 1, 1], "SMARTlabel": "SMART"}
+{"id": "12", "goal": "find a balance between food experimentation and healthy eating by inviting others to try dishes while testing recipes", "label": [0, 0, 0], "SMARTlabel": "Not SMART"}
+{"id": "12", "goal": "use the food diary feature to log meals (confidence 7/10)", "label": [1, 0, 1], "SMARTlabel": "Partially SMART"}
+{"id": "15", "goal": "eat a healthy dinner three to four times a week, focusing on meals with plenty of vegetables", "label": [0, 1, 0], "SMARTlabel": "Not SMART"}
+{"id": "17", "goal": "follow my healthy plate, such as fish soup and mixed vegetables, for lunch four days a week", "label": [1, 1, 0], "SMARTlabel": "Partially SMART"}
+{"id": "21", "goal": "prepare balanced and simple home-cooked meals for self and household at least two times a week (8/10)", "label": [1, 1, 1], "SMARTlabel": "SMART"}
+{"id": "21", "goal": "follow the exercise shown in exercise videos three days a week", "label": [1, 1, 0], "SMARTlabel": "Partially SMART"}
+{"id": "21", "goal": "use food diary at least once a day, 7 days a week (7/10)", "label": [1, 1, 1], "SMARTlabel": "SMART"}
+{"id": "23", "goal": "adopt strategies for healthy home cooking such as using sunflower or sesame oil and increasing vegetable intake (confidence 7/10)", "label": [1, 0, 1], "SMARTlabel": "Partially SMART"}
+{"id": "23", "goal": "use exercise machines for muscle strengthening on weekends for 30 minutes, either alone or with company (confidence 6/10)", "label": [1, 1, 1], "SMARTlabel": "SMART"}
+{"id": "23", "goal": "walk for at least 10,000 steps a day, 7 days a week (confidence 8/10)", "label": [1, 1, 1], "SMARTlabel": "SMART"}
+{"id": "24", "goal": "switch from casual walking to brisk walking, maintaining a daily goal of 10,000 steps (confidence 7/10)", "label": [1, 1, 1], "SMARTlabel": "SMART"}
+{"id": "24", "goal": "reduce the overall quantity of food consumed by 25%, confidence 7/10", "label": [1, 1, 1], "SMARTlabel": "SMART"}
+{"id": "32", "goal": "search for suitable short courses related to property (2-3 days) and sign up if appropriate", "label": [1, 0, 0], "SMARTlabel": "Not SMART"}
+{"id": "32", "goal": "maintains brisk walking routines (3km round trip to local malls) and continues yoga twice weekly using a 20-minute online video (8/10)", "label": [1, 1, 1], "SMARTlabel": "SMART"}
+{"id": "32", "goal": "monitor blood pressure daily and record it on a note (9/10)", "label": [1, 1, 1], "SMARTlabel": "SMART"}
+{"id": "32", "goal": "maintain regular medication intake with app support", "label": [0, 0, 0], "SMARTlabel": "Not SMART"}
+{"id": "32", "goal": "eye screening for cataract", "label": [1, 1, 0], "SMARTlabel": "Partially SMART"}
+{"id": "40", "goal": "establish a consistent medication schedule by taking medication daily, 80% confidence", "label": [0, 0, 1], "SMARTlabel": "Not SMART"}
+{"id": "40", "goal": "increase frequency of morning walks from three to five times a week, each time 45 minutes, 70% confidence", "label": [1, 1, 1], "SMARTlabel": "SMART"}
+{"id": "56", "goal": "adhere to my healthy plate three times a week at lunch, with or without 25% portion of carbohydrates", "label": [1, 1, 0], "SMARTlabel": "Partially SMART"}
+{"id": "61", "goal": "do weight-lifting three times a week, swim once a week on weekend, and walk everyday for a minimumof 30mins (confident 7/10)", "label": [1, 1, 1], "SMARTlabel": "SMART"}
+{"id": "61", "goal": "fast on monday and thursday, eat small portions for meals (confident 8/10)", "label": [1, 0, 1], "SMARTlabel": "Partially SMART"}
+{"id": "61", "goal": "take statin medication everyday (confident 9/10", "label": [1, 1, 1], "SMARTlabel": "SMART"}
+{"id": "63", "goal": "do brisk walking 3 to 4 times a week between 5pm and 6pm, and if it rains do home-based exercise following an online video at home (confidence 8/10)", "label": [1, 1, 1], "SMARTlabel": "SMART"}
+{"id": "63", "goal": "swim at least once a week (more if possible), each time 30-45 minutes (confidence 7/10)", "label": [1, 1, 1], "SMARTlabel": "SMART"}
+{"id": "63", "goal": "watch at least one educational video on the cadence d-pha app", "label": [1, 1, 0], "SMARTlabel": "Partially SMART"}
+{"id": "69", "goal": "exercise daily for at least 1 hour", "label": [0, 1, 0], "SMARTlabel": "Not SMART"}
+{"id": "69", "goal": "reduce portion sizes and adjust ingredients to healthier options", "label": [0, 0, 0], "SMARTlabel": "Not SMART"}
+{"id": "69", "goal": "explore app features and share what is useful", "label": [0, 0, 0], "SMARTlabel": "Not SMART"}
+{"id": "83", "goal": "take statins every morning together with three other medications (60% confident)", "label": [1, 1, 1], "SMARTlabel": "SMART"}
+{"id": "100", "goal": "take statins daily in the morning", "label": [1, 1, 0], "SMARTlabel": "Partially SMART"}
+{"id": "118", "goal": "eat healthy 5 times a week, choosing non-fried dishes for lunch (90% confident)", "label": [1, 1, 1], "SMARTlabel": "SMART"}
+{"id": "141", "goal": "take atorvastatin every evening after dinner (100% confidence)", "label": [1, 1, 1], "SMARTlabel": "SMART"}
+{"id": "162", "goal": "have bread (with cheese, vegetables, spreads, or bacon) for dinner instead of a heavy dinner every day in a week (50% confidence)", "label": [1, 1, 1], "SMARTlabel": "SMART"}
+{"id": "162", "goal": "go for bowling on monday afternoons with friends for 1 hour", "label": [1, 1, 0], "SMARTlabel": "Partially SMART"}
+{"id": "162", "goal": "walk 3km on wednesday evenings in the hdb park nearby", "label": [1, 1, 0], "SMARTlabel": "Partially SMART"}
+{"id": "167", "goal": "take friday-sunday to unwind by arranging for sibling to care for parent during the weekend to rest and spend time with friends", "label": [0, 0, 0], "SMARTlabel": "Not SMART"}
+{"id": "172", "goal": "walk 5 times a week, each time lasting 30 minutes", "label": [1, 1, 0], "SMARTlabel": "Partially SMART"}
+{"id": "172", "goal": "watch educational videos", "label": [1, 0, 0], "SMARTlabel": "Not SMART"}

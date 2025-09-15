@@ -1,0 +1,24 @@
+{"id": "8", "goal": "follow myhealthy plate three times a week", "label": [1, 1, 0], "SMARTlabel": "Partially SMART"}
+{"id": "12", "goal": "take statin medications daily at 10am on weekdays and with meals on weekends (confidence level: 9/10)", "label": [1, 1, 1], "SMARTlabel": "SMART"}
+{"id": "12", "goal": "find a balance between food experimentation and healthy eating by inviting others to try dishes while testing recipes", "label": [0, 0, 0], "SMARTlabel": "Not SMART"}
+{"id": "12", "goal": "use the food diary feature to log meals (confidence 7/10)", "label": [1, 0, 1], "SMARTlabel": "Partially SMART"}
+{"id": "26", "goal": "take statins every night and log it into the app", "label": [1, 1, 0], "SMARTlabel": "Partially SMART"}
+{"id": "50", "goal": "reduce intake of rice, increase intake of vegetables, and maintain usual portion of meat during the fasting (ramadan) period", "label": [1, 0, 0], "SMARTlabel": "Not SMART"}
+{"id": "50", "goal": "take medication every day using the app reminder", "label": [0, 1, 0], "SMARTlabel": "Not SMART"}
+{"id": "50", "goal": "start exercising", "label": [0, 0, 0], "SMARTlabel": "Not SMART"}
+{"id": "53", "goal": "two times of walking exercise per week, 30 minutes each time, on weekend (confidence 7/10)", "label": [1, 1, 1], "SMARTlabel": "SMART"}
+{"id": "53", "goal": "consume four times of vegetables per week by adding vegetables to breakfast before fasting (confidence 7/10)", "label": [1, 1, 1], "SMARTlabel": "SMART"}
+{"id": "56", "goal": "adhere to my healthy plate three times a week at lunch, with or without 25% portion of carbohydrates", "label": [1, 1, 0], "SMARTlabel": "Partially SMART"}
+{"id": "65", "goal": "adhere to myhealthy plate at least once a week, confidence level: 8/10", "label": [1, 1, 1], "SMARTlabel": "SMART"}
+{"id": "65", "goal": "increase intensity and duration of exercise", "label": [0, 0, 0], "SMARTlabel": "Not SMART"}
+{"id": "78", "goal": "take photo of food on app (60% confidence)", "label": [1, 0, 1], "SMARTlabel": "Partially SMART"}
+{"id": "78", "goal": "take statin every day and indicate on app (90% confidence)", "label": [1, 1, 1], "SMARTlabel": "SMART"}
+{"id": "141", "goal": "take atorvastatin every evening after dinner (100% confidence)", "label": [1, 1, 1], "SMARTlabel": "SMART"}
+{"id": "150", "goal": "do qi gong exercises online five times a week (5/10 confidence)", "label": [1, 0, 1], "SMARTlabel": "Partially SMART"}
+{"id": "156", "goal": "have daily 60-minute sessions combining alternate walking and short runs (90% confidence)", "label": [1, 1, 1], "SMARTlabel": "SMART"}
+{"id": "156", "goal": "incorporate weightlifting with dumbbells 2-3 times a week 20 repetitions (100% confidence)", "label": [1, 1, 1], "SMARTlabel": "SMART"}
+{"id": "162", "goal": "have bread (with cheese, vegetables, spreads, or bacon) for dinner instead of a heavy dinner every day in a week (50% confidence)", "label": [1, 1, 1], "SMARTlabel": "SMART"}
+{"id": "162", "goal": "go for bowling on monday afternoons with friends for 1 hour", "label": [1, 1, 0], "SMARTlabel": "Partially SMART"}
+{"id": "162", "goal": "walk 3km on wednesday evenings in the hdb park nearby", "label": [1, 1, 0], "SMARTlabel": "Partially SMART"}
+{"id": "165", "goal": "start brisk walking on monday, wednesday, friday by walking at 06:30am for at least 15-20 minutes around the neighborhood (confidence level: 8/10)", "label": [1, 1, 1], "SMARTlabel": "SMART"}
+{"id": "165", "goal": "switch from white rice to brown rice and change cooking oil to sunflower oil or other healthier options three days a week", "label": [1, 1, 0], "SMARTlabel": "Partially SMART"}

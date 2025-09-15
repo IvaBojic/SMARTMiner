@@ -1,0 +1,35 @@
+{"id": "6", "goal": "take a photo of meals and document it on the app daily", "label": [1, 1, 0], "SMARTlabel": "Partially SMART"}
+{"id": "6", "goal": "track medication use on the app and take medication every day, aiming for zero missed doses", "label": [0, 1, 0], "SMARTlabel": "Not SMART"}
+{"id": "15", "goal": "eat a healthy dinner three to four times a week, focusing on meals with plenty of vegetables", "label": [0, 1, 0], "SMARTlabel": "Not SMART"}
+{"id": "32", "goal": "search for suitable short courses related to property (2-3 days) and sign up if appropriate", "label": [1, 0, 0], "SMARTlabel": "Not SMART"}
+{"id": "32", "goal": "maintains brisk walking routines (3km round trip to local malls) and continues yoga twice weekly using a 20-minute online video (8/10)", "label": [1, 1, 1], "SMARTlabel": "SMART"}
+{"id": "32", "goal": "monitor blood pressure daily and record it on a note (9/10)", "label": [1, 1, 1], "SMARTlabel": "SMART"}
+{"id": "32", "goal": "maintain regular medication intake with app support", "label": [0, 0, 0], "SMARTlabel": "Not SMART"}
+{"id": "32", "goal": "eye screening for cataract", "label": [1, 1, 0], "SMARTlabel": "Partially SMART"}
+{"id": "34", "goal": "send in fit stool test to the polyclinic by the next coaching session", "label": [1, 1, 0], "SMARTlabel": "Partially SMART"}
+{"id": "34", "goal": "enquire about full body screening at the polyclinic by the next coaching session", "label": [1, 1, 0], "SMARTlabel": "Partially SMART"}
+{"id": "34", "goal": "use the app for medication reminders and food diary daily", "label": [1, 0, 0], "SMARTlabel": "Not SMART"}
+{"id": "44", "goal": "homecook at least one meal a day, 7 days a week (confidence: 80%)", "label": [1, 1, 1], "SMARTlabel": "SMART"}
+{"id": "44", "goal": "exercise (walking) but with increased intensity and pace for one hour in the morning, three days a week (confidence: 100%)", "label": [1, 1, 1], "SMARTlabel": "SMART"}
+{"id": "44", "goal": "take medications every day in the morning (breakfast time) (confidence: 100%)", "label": [1, 1, 1], "SMARTlabel": "SMART"}
+{"id": "47", "goal": "continue swimming and aquatic exercises once a week (confidence 100%)", "label": [1, 0, 1], "SMARTlabel": "Partially SMART"}
+{"id": "47", "goal": "consume homemade salad as breakfast once a week, with flexibility to buy if necessary (confidence 50%)", "label": [1, 1, 1], "SMARTlabel": "SMART"}
+{"id": "47", "goal": "take statin medications every day of the week (confidence 90%)", "label": [1, 1, 1], "SMARTlabel": "SMART"}
+{"id": "66", "goal": "30-60 mins of jogging around building three times a week after work and on weekends. (confidence 9/10)", "label": [1, 1, 1], "SMARTlabel": "SMART"}
+{"id": "66", "goal": "switch from roti prata to homemade oats three times a week. (confidence 7/10", "label": [1, 1, 1], "SMARTlabel": "SMART"}
+{"id": "66", "goal": "use a post-it note near bed as reminder for evening medications", "label": [1, 0, 0], "SMARTlabel": "Not SMART"}
+{"id": "67", "goal": "reduce the consumption of coke zero from twice daily to once daily (confidence 7/10)", "label": [1, 1, 1], "SMARTlabel": "SMART"}
+{"id": "67", "goal": "limit frequency of snacking to once daily (confidence 7/10)", "label": [0, 1, 1], "SMARTlabel": "Partially SMART"}
+{"id": "82", "goal": "take statin every morning and tick taken in the cadence d-pha app (60% confident)", "label": [1, 1, 1], "SMARTlabel": "SMART"}
+{"id": "86", "goal": "go 2-3 times to gym per week and run for at least 30 minutes each time (70% confidence)", "label": [1, 1, 1], "SMARTlabel": "SMART"}
+{"id": "86", "goal": "use ab roller every day (20 reps × 5 sets) (90% confident)", "label": [1, 1, 1], "SMARTlabel": "SMART"}
+{"id": "88", "goal": "jog 2-3 times every week for 30 minures (9/10 confident)", "label": [1, 1, 1], "SMARTlabel": "SMART"}
+{"id": "88", "goal": "learn korean when having free time, either on weekends or 30 minutes a day depending on energy level", "label": [1, 1, 0], "SMARTlabel": "Partially SMART"}
+{"id": "102", "goal": "eat one healthy plate for dinner (mixed rice, vegetables, chicken) 2 to 3 times a week (8/10 confidence)", "label": [1, 1, 1], "SMARTlabel": "SMART"}
+{"id": "103", "goal": "cut down on oil by 50% in home-cooked meals (partner prepares) every dinner (60% confidence)", "label": [1, 1, 1], "SMARTlabel": "SMART"}
+{"id": "106", "goal": "take statins every night around 11pm and log as taken in the d-pha app (70% confidence level)", "label": [1, 1, 1], "SMARTlabel": "SMART"}
+{"id": "109", "goal": "take statin medication daily (60% confident)", "label": [1, 1, 1], "SMARTlabel": "SMART"}
+{"id": "118", "goal": "eat healthy 5 times a week, choosing non-fried dishes for lunch (90% confident)", "label": [1, 1, 1], "SMARTlabel": "SMART"}
+{"id": "165", "goal": "start brisk walking on monday, wednesday, friday by walking at 06:30am for at least 15-20 minutes around the neighborhood (confidence level: 8/10)", "label": [1, 1, 1], "SMARTlabel": "SMART"}
+{"id": "165", "goal": "switch from white rice to brown rice and change cooking oil to sunflower oil or other healthier options three days a week", "label": [1, 1, 0], "SMARTlabel": "Partially SMART"}
+{"id": "167", "goal": "take friday-sunday to unwind by arranging for sibling to care for parent during the weekend to rest and spend time with friends", "label": [0, 0, 0], "SMARTlabel": "Not SMART"}

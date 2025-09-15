@@ -1,0 +1,45 @@
+{"id": "11", "goal": "consume oatmeal with additional nuts for lunch three times a week (confidence 8/10)", "label": [1, 1, 1], "SMARTlabel": "SMART"}
+{"id": "11", "goal": "jog with my spouse every weekend, adding two laps each time", "label": [1, 0, 0], "SMARTlabel": "Not SMART"}
+{"id": "16", "goal": "follow myhealthy plate for lunch every weekday, from monday to friday", "label": [1, 1, 0], "SMARTlabel": "Partially SMART"}
+{"id": "23", "goal": "adopt strategies for healthy home cooking such as using sunflower or sesame oil and increasing vegetable intake (confidence 7/10)", "label": [1, 0, 1], "SMARTlabel": "Partially SMART"}
+{"id": "23", "goal": "use exercise machines for muscle strengthening on weekends for 30 minutes, either alone or with company (confidence 6/10)", "label": [1, 1, 1], "SMARTlabel": "SMART"}
+{"id": "23", "goal": "walk for at least 10,000 steps a day, 7 days a week (confidence 8/10)", "label": [1, 1, 1], "SMARTlabel": "SMART"}
+{"id": "35", "goal": "consume steamed fish once a week instead of fried fish, 10/10 confident", "label": [1, 1, 1], "SMARTlabel": "SMART"}
+{"id": "37", "goal": "monitor chest pain under the right side and visit a doctor if symptoms persist", "label": [1, 0, 0], "SMARTlabel": "Not SMART"}
+{"id": "37", "goal": "avoid fried foods and festive snacks, and focus on nourishing meals such as fish soup and home-cooked soup-based dishes", "label": [1, 0, 0], "SMARTlabel": "Not SMART"}
+{"id": "38", "goal": "do brisk walking for 45 minutes per day, 7 days a week (confidence: 6/10)", "label": [1, 1, 1], "SMARTlabel": "SMART"}
+{"id": "38", "goal": "follow a recovery-friendly diet with more vegetables (50% or more) and soups, and reduced meat intake (less than 25%), at least 5 days a week (confidence: 9/10)", "label": [1, 1, 1], "SMARTlabel": "SMART"}
+{"id": "49", "goal": "continue using app features and discuss in the next session", "label": [0, 0, 0], "SMARTlabel": "Not SMART"}
+{"id": "54", "goal": "do exercises 4 times a week, including walking, stretches, knee exercises from radio and online videos (8/10 confidence)", "label": [1, 1, 1], "SMARTlabel": "SMART"}
+{"id": "54", "goal": "try different styles of exercise", "label": [0, 0, 0], "SMARTlabel": "Not SMART"}
+{"id": "54", "goal": "reduce the intake of oily or spicy foods and replace with tofu, beans, and fruit", "label": [1, 0, 0], "SMARTlabel": "Not SMART"}
+{"id": "54", "goal": "watch online videos, radio shows and documentaries on healthy living", "label": [1, 0, 0], "SMARTlabel": "Not SMART"}
+{"id": "66", "goal": "30-60 mins of jogging around building three times a week after work and on weekends. (confidence 9/10)", "label": [1, 1, 1], "SMARTlabel": "SMART"}
+{"id": "66", "goal": "switch from roti prata to homemade oats three times a week. (confidence 7/10", "label": [1, 1, 1], "SMARTlabel": "SMART"}
+{"id": "66", "goal": "use a post-it note near bed as reminder for evening medications", "label": [1, 0, 0], "SMARTlabel": "Not SMART"}
+{"id": "67", "goal": "reduce the consumption of coke zero from twice daily to once daily (confidence 7/10)", "label": [1, 1, 1], "SMARTlabel": "SMART"}
+{"id": "67", "goal": "limit frequency of snacking to once daily (confidence 7/10)", "label": [0, 1, 1], "SMARTlabel": "Partially SMART"}
+{"id": "71", "goal": "reduce sugar intake in breakfast 5 times a week, by omitting condensed milk in coffee and tea and by reducing sugar in oats (7/10)", "label": [1, 1, 1], "SMARTlabel": "SMART"}
+{"id": "71", "goal": "reduce salt consumption by cooking more home meals, twice a week during weekends (confidence 6/10)", "label": [1, 1, 1], "SMARTlabel": "SMART"}
+{"id": "71", "goal": "cut daily carbohydrate intake by half", "label": [1, 1, 0], "SMARTlabel": "Partially SMART"}
+{"id": "71", "goal": "watch at least two educational videos and discuss with coach in the next session", "label": [1, 1, 0], "SMARTlabel": "Partially SMART"}
+{"id": "76", "goal": "take photo of food on the app (95% confident)", "label": [1, 0, 1], "SMARTlabel": "Partially SMART"}
+{"id": "76", "goal": "stretching exercises at work for 5 minutes every day, taking breaks in between", "label": [1, 1, 0], "SMARTlabel": "Partially SMART"}
+{"id": "76", "goal": "meditate at night for 20 minutes before bed, when not working late", "label": [1, 1, 0], "SMARTlabel": "Partially SMART"}
+{"id": "76", "goal": "take statin every day and indicate on app (100% confidence level)", "label": [1, 1, 1], "SMARTlabel": "SMART"}
+{"id": "92", "goal": "take statins daily using reminders and by placing pills in view after seeing reminders (confidence: 70%)", "label": [1, 1, 1], "SMARTlabel": "SMART"}
+{"id": "92", "goal": "focus on recovery", "label": [0, 0, 0], "SMARTlabel": "Not SMART"}
+{"id": "93", "goal": "more conscious and aware of food choices, limits indulgent foods like durian to smaller portions or special occasions", "label": [1, 0, 0], "SMARTlabel": "Not SMART"}
+{"id": "93", "goal": "reduced alcohol intake to twice (only one glass) a month from nightly (80% confidence)", "label": [1, 1, 1], "SMARTlabel": "SMART"}
+{"id": "93", "goal": "more regular with statin intake, with occasional missed night doses", "label": [1, 0, 0], "SMARTlabel": "Not SMART"}
+{"id": "93", "goal": "brisk walking for at least 45 minutes three times a week, adapts during rainy weather by using sheltered paths (6/10 confidence)", "label": [1, 1, 1], "SMARTlabel": "SMART"}
+{"id": "100", "goal": "take statins daily in the morning", "label": [1, 1, 0], "SMARTlabel": "Partially SMART"}
+{"id": "102", "goal": "eat one healthy plate for dinner (mixed rice, vegetables, chicken) 2 to 3 times a week (8/10 confidence)", "label": [1, 1, 1], "SMARTlabel": "SMART"}
+{"id": "109", "goal": "take statin medication daily (60% confident)", "label": [1, 1, 1], "SMARTlabel": "SMART"}
+{"id": "151", "goal": "take statin every morning and tick taken in the cadence d-pha app (9/10 confidence level)", "label": [1, 1, 1], "SMARTlabel": "SMART"}
+{"id": "154", "goal": "control diet for pre-dawn meal by eating a balanced diet every day", "label": [0, 0, 0], "SMARTlabel": "Not SMART"}
+{"id": "154", "goal": "take statin medication every day with the help of reminders (8/10 confidence)", "label": [1, 1, 1], "SMARTlabel": "SMART"}
+{"id": "157", "goal": "limit the intake of unhealthy oily supper to twice a week (e.g. roti prata, curry fish head). confidence: 6/10", "label": [1, 1, 1], "SMARTlabel": "SMART"}
+{"id": "157", "goal": "two times of brisk walking per week, each lasting 30 minutes (7/10 confidence)", "label": [1, 1, 1], "SMARTlabel": "SMART"}
+{"id": "160", "goal": "exercising every day for at least 1.5 hours (75% confident)", "label": [0, 1, 1], "SMARTlabel": "Partially SMART"}
+{"id": "160", "goal": "reduce portion size for all meals, adjust ingredients to healthier options for each meal, and incorporate vegetables and fruits into home-cooked meals at least 2 times a week", "label": [1, 1, 0], "SMARTlabel": "Partially SMART"}

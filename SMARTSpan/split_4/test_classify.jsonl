@@ -1,0 +1,41 @@
+{"id": "4", "goal": "take a photo of meals and document it on the app daily", "label": [1, 1, 0], "SMARTlabel": "Partially SMART"}
+{"id": "4", "goal": "track medication use on the app and aim to take it every day with zero missed doses", "label": [0, 1, 0], "SMARTlabel": "Not SMART"}
+{"id": "4", "goal": "meditate during daily walks by listening to music or meditation clips from the cadence dpha app", "label": [1, 0, 0], "SMARTlabel": "Not SMART"}
+{"id": "4", "goal": "enter 1 to 2 journal entries before the next session", "label": [1, 1, 0], "SMARTlabel": "Partially SMART"}
+{"id": "18", "goal": "walk for 30 minutes alone every tuesday at 8:30, and for 45 minutes with a family member every sunday", "label": [1, 1, 0], "SMARTlabel": "Partially SMART"}
+{"id": "23", "goal": "adopt strategies for healthy home cooking such as using sunflower or sesame oil and increasing vegetable intake (confidence 7/10)", "label": [1, 0, 1], "SMARTlabel": "Partially SMART"}
+{"id": "23", "goal": "use exercise machines for muscle strengthening on weekends for 30 minutes, either alone or with company (confidence 6/10)", "label": [1, 1, 1], "SMARTlabel": "SMART"}
+{"id": "23", "goal": "walk for at least 10,000 steps a day, 7 days a week (confidence 8/10)", "label": [1, 1, 1], "SMARTlabel": "SMART"}
+{"id": "24", "goal": "switch from casual walking to brisk walking, maintaining a daily goal of 10,000 steps (confidence 7/10)", "label": [1, 1, 1], "SMARTlabel": "SMART"}
+{"id": "24", "goal": "reduce the overall quantity of food consumed by 25%, confidence 7/10", "label": [1, 1, 1], "SMARTlabel": "SMART"}
+{"id": "28", "goal": "improve living environment by completing repairs, including fixing taps, repainting rooms, and addressing a ceiling leak", "label": [1, 0, 0], "SMARTlabel": "Not SMART"}
+{"id": "28", "goal": "explore options for engaging a live-in helper within the next two weeks to provide additional support", "label": [1, 0, 0], "SMARTlabel": "Not SMART"}
+{"id": "32", "goal": "search for suitable short courses related to property (2-3 days) and sign up if appropriate", "label": [1, 0, 0], "SMARTlabel": "Not SMART"}
+{"id": "32", "goal": "maintains brisk walking routines (3km round trip to local malls) and continues yoga twice weekly using a 20-minute online video (8/10)", "label": [1, 1, 1], "SMARTlabel": "SMART"}
+{"id": "32", "goal": "monitor blood pressure daily and record it on a note (9/10)", "label": [1, 1, 1], "SMARTlabel": "SMART"}
+{"id": "32", "goal": "maintain regular medication intake with app support", "label": [0, 0, 0], "SMARTlabel": "Not SMART"}
+{"id": "32", "goal": "eye screening for cataract", "label": [1, 1, 0], "SMARTlabel": "Partially SMART"}
+{"id": "44", "goal": "homecook at least one meal a day, 7 days a week (confidence: 80%)", "label": [1, 1, 1], "SMARTlabel": "SMART"}
+{"id": "44", "goal": "exercise (walking) but with increased intensity and pace for one hour in the morning, three days a week (confidence: 100%)", "label": [1, 1, 1], "SMARTlabel": "SMART"}
+{"id": "44", "goal": "take medications every day in the morning (breakfast time) (confidence: 100%)", "label": [1, 1, 1], "SMARTlabel": "SMART"}
+{"id": "46", "goal": "swim or do aquatic exercises for at least 70 minutes per week (confidence 100%)", "label": [1, 1, 1], "SMARTlabel": "SMART"}
+{"id": "46", "goal": "consume homemade salad for breakfast twice a week, or buy salad as alternative if needed (confidence 80%)", "label": [1, 1, 1], "SMARTlabel": "SMART"}
+{"id": "46", "goal": "take statin medications daily", "label": [1, 1, 0], "SMARTlabel": "Partially SMART"}
+{"id": "65", "goal": "adhere to myhealthy plate at least once a week, confidence level: 8/10", "label": [1, 1, 1], "SMARTlabel": "SMART"}
+{"id": "65", "goal": "increase intensity and duration of exercise", "label": [0, 0, 0], "SMARTlabel": "Not SMART"}
+{"id": "67", "goal": "reduce the consumption of coke zero from twice daily to once daily (confidence 7/10)", "label": [1, 1, 1], "SMARTlabel": "SMART"}
+{"id": "67", "goal": "limit frequency of snacking to once daily (confidence 7/10)", "label": [0, 1, 1], "SMARTlabel": "Partially SMART"}
+{"id": "73", "goal": "jogging once a week, every wednesday afternoon, for 30 minutes, at the jogging track near home (confidence level: 8/10)", "label": [1, 1, 1], "SMARTlabel": "SMART"}
+{"id": "76", "goal": "take photo of food on the app (95% confident)", "label": [1, 0, 1], "SMARTlabel": "Partially SMART"}
+{"id": "76", "goal": "stretching exercises at work for 5 minutes every day, taking breaks in between", "label": [1, 1, 0], "SMARTlabel": "Partially SMART"}
+{"id": "76", "goal": "meditate at night for 20 minutes before bed, when not working late", "label": [1, 1, 0], "SMARTlabel": "Partially SMART"}
+{"id": "76", "goal": "take statin every day and indicate on app (100% confidence level)", "label": [1, 1, 1], "SMARTlabel": "SMART"}
+{"id": "79", "goal": "take photo of food on app of at least one meal in a day (80% confidence level)", "label": [1, 1, 1], "SMARTlabel": "SMART"}
+{"id": "79", "goal": "take statin every day and document on app (60% confidence level)", "label": [1, 1, 1], "SMARTlabel": "SMART"}
+{"id": "85", "goal": "eat a healthy plate three times a week for lunch when cooking at home", "label": [1, 1, 0], "SMARTlabel": "Partially SMART"}
+{"id": "104", "goal": "take statins every night at 11pm (60% confidence level)", "label": [1, 1, 1], "SMARTlabel": "SMART"}
+{"id": "121", "goal": "plan travel to europe, discuss finances with a sibling", "label": [0, 0, 0], "SMARTlabel": "Not SMART"}
+{"id": "121", "goal": "walking together with a parent and a friend for 30 min at least 3 times a week (80% confidence)", "label": [1, 1, 1], "SMARTlabel": "SMART"}
+{"id": "121", "goal": "look into eldercare home and social worker's support for mental health break, or arrange for a live-in helper", "label": [1, 0, 0], "SMARTlabel": "Not SMART"}
+{"id": "128", "goal": "take statins every day between 8 and 9 am and log it in the app (50% confidence)", "label": [1, 1, 1], "SMARTlabel": "SMART"}
+{"id": "155", "goal": "complete 4 times of exercise per week, each time lasting 35 minutes (30 minutes of aerobic + 5 minutes of resistance) (8/10 confidence level)", "label": [1, 1, 1], "SMARTlabel": "SMART"}

@@ -1,0 +1,46 @@
+{"id": "5", "goal": "take a photo of meals and document it on the app daily", "label": [1, 1, 0], "SMARTlabel": "Partially SMART"}
+{"id": "5", "goal": "track medication use on the app and take medication daily, aiming for zero missed doses", "label": [0, 1, 0], "SMARTlabel": "Not SMART"}
+{"id": "5", "goal": "meditate once a week before sleep using clips from the cadence dpha app", "label": [1, 0, 0], "SMARTlabel": "Not SMART"}
+{"id": "12", "goal": "take statin medications daily at 10am on weekdays and with meals on weekends (confidence level: 9/10)", "label": [1, 1, 1], "SMARTlabel": "SMART"}
+{"id": "12", "goal": "find a balance between food experimentation and healthy eating by inviting others to try dishes while testing recipes", "label": [0, 0, 0], "SMARTlabel": "Not SMART"}
+{"id": "12", "goal": "use the food diary feature to log meals (confidence 7/10)", "label": [1, 0, 1], "SMARTlabel": "Partially SMART"}
+{"id": "13", "goal": "take medications daily at 10am on weekdays and with meals on weekends", "label": [0, 1, 0], "SMARTlabel": "Not SMART"}
+{"id": "13", "goal": "avoid giving in to food temptations such as fast food by being mindful of cues and recognising situations that challenge healthy choices", "label": [0, 0, 0], "SMARTlabel": "Not SMART"}
+{"id": "13", "goal": "explore the app and identify a feature that could be used regularly", "label": [0, 0, 0], "SMARTlabel": "Not SMART"}
+{"id": "14", "goal": "do 10 minutes of meditation every day to relax and manage stress", "label": [1, 1, 0], "SMARTlabel": "Partially SMART"}
+{"id": "16", "goal": "follow myhealthy plate for lunch every weekday, from monday to friday", "label": [1, 1, 0], "SMARTlabel": "Partially SMART"}
+{"id": "17", "goal": "follow my healthy plate, such as fish soup and mixed vegetables, for lunch four days a week", "label": [1, 1, 0], "SMARTlabel": "Partially SMART"}
+{"id": "27", "goal": "support emotional wellbeing at home by bringing mother out for physical activity three times a week: physiotherapy on fridays and walking on two other days", "label": [1, 0, 0], "SMARTlabel": "Not SMART"}
+{"id": "27", "goal": "self-care goal to seek household support by asking a friend for agency recommendations and discussing with a sibling after the weekend", "label": [0, 0, 0], "SMARTlabel": "Not SMART"}
+{"id": "27", "goal": "follow through with a medical check-up for recent episodes of chest tightness and breathlessness", "label": [1, 0, 0], "SMARTlabel": "Not SMART"}
+{"id": "33", "goal": "sign up for a financial course using skillsfuture credits by the next session", "label": [1, 1, 0], "SMARTlabel": "Partially SMART"}
+{"id": "33", "goal": "schedule a full body health screening, either at a polyclinic or privately, by following up with a doctor after the upcoming mammogram", "label": [1, 1, 0], "SMARTlabel": "Partially SMART"}
+{"id": "33", "goal": "record blood pressure reading daily before bed time, 10/10 confident", "label": [1, 1, 1], "SMARTlabel": "SMART"}
+{"id": "33", "goal": "track the frequency of exercise weekly", "label": [1, 0, 0], "SMARTlabel": "Not SMART"}
+{"id": "35", "goal": "consume steamed fish once a week instead of fried fish, 10/10 confident", "label": [1, 1, 1], "SMARTlabel": "SMART"}
+{"id": "39", "goal": "watch at least one app videos per week and check in with the health coach if there are any questions.", "label": [1, 1, 0], "SMARTlabel": "Partially SMART"}
+{"id": "39", "goal": "prioritise rest by spending time with family, fixing up the house, cooking, reducing extra commitments, and seeing friends more mindfully.", "label": [1, 0, 0], "SMARTlabel": "Not SMART"}
+{"id": "39", "goal": "adjust medication timing from night to morning and take medication daily", "label": [0, 1, 0], "SMARTlabel": "Not SMART"}
+{"id": "40", "goal": "establish a consistent medication schedule by taking medication daily, 80% confidence", "label": [0, 0, 1], "SMARTlabel": "Not SMART"}
+{"id": "40", "goal": "increase frequency of morning walks from three to five times a week, each time 45 minutes, 70% confidence", "label": [1, 1, 1], "SMARTlabel": "SMART"}
+{"id": "51", "goal": "walk 10k steps daily in the morning or night, depending on teaching schedule", "label": [1, 1, 0], "SMARTlabel": "Partially SMART"}
+{"id": "51", "goal": "add incline in walks by going for hikes during upcoming trip", "label": [1, 0, 0], "SMARTlabel": "Not SMART"}
+{"id": "51", "goal": "monitor food intake and blood glucose trends by logging them into a separate app", "label": [1, 0, 0], "SMARTlabel": "Not SMART"}
+{"id": "51", "goal": "set daily reminders and take medication consistently (10/10 confidence)", "label": [0, 1, 1], "SMARTlabel": "Partially SMART"}
+{"id": "68", "goal": "exercise daily for at least 1 hour", "label": [0, 1, 0], "SMARTlabel": "Not SMART"}
+{"id": "68", "goal": "reduce portion sizes for all meals, choose healthier ingredients, and add vegetables and fruits into home-cooked meals", "label": [1, 0, 0], "SMARTlabel": "Not SMART"}
+{"id": "68", "goal": "watch module 5 video and discuss with hc next session", "label": [1, 1, 0], "SMARTlabel": "Partially SMART"}
+{"id": "69", "goal": "exercise daily for at least 1 hour", "label": [0, 1, 0], "SMARTlabel": "Not SMART"}
+{"id": "69", "goal": "reduce portion sizes and adjust ingredients to healthier options", "label": [0, 0, 0], "SMARTlabel": "Not SMART"}
+{"id": "69", "goal": "explore app features and share what is useful", "label": [0, 0, 0], "SMARTlabel": "Not SMART"}
+{"id": "81", "goal": "improve sleep duration by leaving their phone from 8pm in another room (90% confident)", "label": [1, 0, 1], "SMARTlabel": "Partially SMART"}
+{"id": "108", "goal": "take statin every night at 12am and set medication reminder in the app (confidence: 60%)", "label": [1, 1, 1], "SMARTlabel": "SMART"}
+{"id": "109", "goal": "take statin medication daily (60% confident)", "label": [1, 1, 1], "SMARTlabel": "SMART"}
+{"id": "154", "goal": "control diet for pre-dawn meal by eating a balanced diet every day", "label": [0, 0, 0], "SMARTlabel": "Not SMART"}
+{"id": "154", "goal": "take statin medication every day with the help of reminders (8/10 confidence)", "label": [1, 1, 1], "SMARTlabel": "SMART"}
+{"id": "157", "goal": "limit the intake of unhealthy oily supper to twice a week (e.g. roti prata, curry fish head). confidence: 6/10", "label": [1, 1, 1], "SMARTlabel": "SMART"}
+{"id": "157", "goal": "two times of brisk walking per week, each lasting 30 minutes (7/10 confidence)", "label": [1, 1, 1], "SMARTlabel": "SMART"}
+{"id": "163", "goal": "walk for 20 minutes, 3-4 times per week at 9 am (8/10)", "label": [1, 1, 1], "SMARTlabel": "SMART"}
+{"id": "163", "goal": "eat more vegetables such as carrots and cabbage for up to 50% of plate, reduce meats to 25% of plate (60% confidence)", "label": [1, 1, 1], "SMARTlabel": "SMART"}
+{"id": "169", "goal": "prepare balanced and simple home cooked meals for self and family at least 1-2 times a week, 8/10 confidence", "label": [0, 1, 1], "SMARTlabel": "Partially SMART"}
+{"id": "169", "goal": "watch videos on exercise and diet", "label": [1, 0, 0], "SMARTlabel": "Not SMART"}
